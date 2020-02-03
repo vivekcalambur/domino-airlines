@@ -1,0 +1,5 @@
+datasetConfigurations:
+  - name: pipeline-example
+    inputs:
+      - path: airlines
+        dataset: airlines:source

@@ -1,0 +1,17 @@
+DepTime
+ArrTime
+ActualElapsedTime
+AirTime
+ArrDelay
+DepDelay
+TaxiIn
+TaxiOut
+Cancelled
+CancellationCode
+CarrierDelay
+WeatherDelay
+NASDelay
+SecurityDelay
+LateAircraftDelay
+YearFiveFold
+YearTenFold
